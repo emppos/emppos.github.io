@@ -1,0 +1,16 @@
+.box1 {
+    padding: 39px;
+    color: white;
+    background-color: red;
+}
+.box2 {
+    margin: 25px;
+    color: white;
+    background-color: green;
+}
+.box3 {
+    width: 400px;
+    height: 200px;
+    color: white;
+    background-color: blue;
+}
