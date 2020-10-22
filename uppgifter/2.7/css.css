@@ -1,0 +1,29 @@
+.box1 {
+    color: white;
+    background-color: black;
+    margin-bottom: 1%;
+    width: 100%;
+}
+.box2 {
+    color: white;
+    background-color: dimgray;
+    width: 50%;
+    margin-bottom: 1%;
+}
+.box3 {
+    color: black;
+    background-color: lightgray;
+    margin-bottom: 1%;
+    width: 25%;
+}
+.box4 {
+    color: white;
+    background-color: red;
+    width: 500px;
+    margin-bottom: 1%;
+}
+.box5 {
+    color: white;
+    background-color: blue;
+    width: 250px;
+}
