@@ -1,0 +1,30 @@
+.box1 {
+    color: white;
+    background-color: black;
+    margin: 24px;
+    width: 200px;
+    height: 50px;
+}
+.box2 {
+    color: white;
+    background-color: black;
+    padding: 22px;
+    width: 200px;
+    height: 50px;
+}
+.box3 {
+    color: white;
+    background-color: black;
+    border: 10px solid red;
+    width: 200px;
+    height: 50px;
+}
+.box4 {
+    color: white;
+    background-color: black;
+    margin: 24px;
+    padding: 20px;
+    border: 10px solid red;
+    width: 200px;
+    height: 50px;
+}
