@@ -34,14 +34,9 @@ nav {
     display: flex;
 }
 a:hover {
-    margin-top: 3px;
+    margin-top: 3ypx;
     color: red;
 }
-a:active {
-    text-decoration: underline;
-    color: red;
-}
-
 body {
     margin: 0cm;
 }
