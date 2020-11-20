@@ -5,7 +5,7 @@
 .bg {
     background-image: url(bg.jpg);
     width: 200%;
-    height: 200vh;
+    height: 150vh;
     background-size: cover;
 }
 .boxp {
@@ -16,7 +16,7 @@
     background-color: lightgray;
     width: 900px;
     height: 400px;
-    margin-top: -110%;
+    margin-top: -90%;
     margin-left: 0.7cm;
     border-radius: 30px;
     box-shadow: 10px 10px 10px black;
@@ -24,7 +24,7 @@
 .kbparent {
     width: 200px;
     height: 200px;
-    margin-top: -28.5%;
+    margin-top: -35.5%;
     margin-left: 2cm;
     display: flex;
 }
@@ -46,14 +46,33 @@
 .box2 {
     background-color: lightgray;
     width: 900px;
-    height: 400px;
+    height: 190px;
     margin-top: 40%;
     margin-left: 0.7cm;
     border-radius: 30px;
     box-shadow: 10px 10px 10px black;
 }
 .text2 {
-    margin-top: -15cm;
+    margin-top: -15.5cm;
     margin-left: 1.5cm;
     font-family: cursive;
+}
+p {
+    margin-left: 1.5cm;
+}
+.buttonparent {
+    background-color: red;
+    padding: 15px;
+    border-radius: 30px;
+    font-family: cursive;
+    font-size: 20px;
+    width: 5.4cm;
+    margin-left: 1.2cm;
+}
+.button {
+    color: white;
+    text-decoration: none
+}
+.button:hover {
+    opacity: 0.5;
 }
