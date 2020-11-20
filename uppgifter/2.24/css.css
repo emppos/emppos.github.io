@@ -1,0 +1,44 @@
+.parent {
+    width: 100%;
+    height: 100vh;
+}
+.bg {
+    background-image: url(bg.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.boxp {
+    width: 800px;
+    height: 600px;
+}
+.box {
+    background-color: lightgray;
+    width: 900px;
+    height: 400px;
+    margin-top: -80%;
+    margin-left: 0.7cm;
+    border-radius: 30px;
+}
+.kbparent {
+    width: 200px;
+    height: 200px;
+    margin-top: -37%;
+    margin-left: 2cm;
+    display: flex;
+}
+.kbp2 {
+    width: 400px;
+    height: 200px;
+    margin-top: -3cm;
+    margin-left: 12.8cm;
+}
+h1 {
+    font-family: cursive;
+    margin-top: -7.7cm;
+    margin-left: 1.5cm;
+}
+
+body {
+    margin: 0cm;
+}
