@@ -1,0 +1,40 @@
+.parent {
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+p {
+    font-family: sans-serif;
+}
+ul {
+    font-family: sans-serif;
+}
+strong {
+    font-weight: bold;
+}
+ul {
+    list-style-type: disc;
+}
+h2 {
+    font-size: xx-large;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 0.2cm;
+}
+.p2 {
+    margin-top: 0.2cm;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+.p3 {
+    margin-top: 0.4cm;
+}
+.p4 {
+    margin-top: 0.2cm;
+}
