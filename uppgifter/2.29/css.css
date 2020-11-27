@@ -52,3 +52,9 @@ hr {
     width: 500px;
      margin-top: -80px;
 }
+@media screen and (max-width: 900px) {
+    .bild {
+         width: 150px;
+         height: 250px;
+    }
+}
