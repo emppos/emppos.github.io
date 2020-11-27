@@ -8,12 +8,12 @@
     background-color: white;
     width: 1000px;
     height: 650px;
-    border-radius: 200px;
+    border-radius: 20px;
     display: flex;
     justify-content: center;
     margin-top: -730px;
     margin-left: 7cm;
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 50px black;
 }
 .bild {
     width: 300px;
@@ -32,7 +32,7 @@
     opacity: 90%;
 }
 img {
-    border-radius: 30px;
+    border-radius: 20px;
 
 }
 h1 {
@@ -41,7 +41,7 @@ h1 {
 }
 body {
     margin: 0cm;
-    background-color: firebrick;
+    background-color: darkgray;
 }
 p {
     font-family: sans-serif;
@@ -53,8 +53,7 @@ hr {
      margin-top: -80px;
 }
 @media screen and (max-width: 900px) {
-    .bild {
-         width: 150px;
-         height: 250px;
+    .boxparent {
+         flex-direction: column;
     }
 }
