@@ -1,0 +1,35 @@
+.parent {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.imgparent {
+    display: flex;
+}
+.rubrik {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: #222;
+    margin: 0cm;
+}
