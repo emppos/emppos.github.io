@@ -1,0 +1,34 @@
+.parent{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 100;
+    font-size: 50px; 
+}
+.countdown{
+    display: flex;
+    transform: scale(2);
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+}
+.time h2{
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 0.5;
+}

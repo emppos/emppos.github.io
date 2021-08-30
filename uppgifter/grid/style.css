@@ -1,0 +1,32 @@
+.container{
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    grid-template-areas: 
+    'header header header header'
+    'sidebar main main main'
+    'sidebar main main main'
+    'sidebar main main main'
+    'footer footer footer footer'
+    ;
+}
+.header{
+    background-color: wheat;
+    grid-area: header;
+}
+.sidebar{
+    background-color: blue;
+    grid-area: sidebar;
+}
+.main{
+    background-color: red;
+    grid-area: main;
+}
+.footer{
+    background-color: gray;
+    grid-area: footer;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
