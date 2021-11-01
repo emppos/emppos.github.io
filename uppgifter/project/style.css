@@ -36,6 +36,17 @@ body {
     position: absolute;
     top: 0;
 
-    border-bottom: 3px solid rgb(44, 44, 44);
+    border-bottom: 3px solid white;
+}
+
+hr {
+    width: 150px;
     
+    background-color: white;
+    
+    transform: rotate(-55deg);
+
+    position: absolute;
+    top: 14px;
+    left: 250px;
 }
