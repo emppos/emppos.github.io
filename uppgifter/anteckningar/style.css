@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: monospace;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    background-color: white;
+    color: black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100%;
+    height: 100vh;
+}
+
+textarea{
+    font: inherit;
+    padding: 1rem;
+    
+    width: 100%;
+    height: 100vh;
+
+    outline: 0;
+    border: 0;
+
+    resize: none;
+}
+
+button{
+    font: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 100%;
+}
